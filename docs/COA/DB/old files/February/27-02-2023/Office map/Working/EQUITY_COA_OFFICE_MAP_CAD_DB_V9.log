@@ -1,0 +1,44 @@
+﻿Record #30
+Sheet "Sheet1"
+Error: ORA-00928: missing SELECT keyword
+
+Field Values:
+A (mapped to COA_OFF_MAP_ID): 
+B (mapped to GL_ACC_ID): 
+C (mapped to GL_ACC_NAME): 
+D (mapped to GL_ACC_CODE): 
+E (mapped to GL_ACC_LEVEL): 
+F (mapped to GL_TYPE_ID): 
+G (mapped to GL_TYPE_FLAG): 
+H (mapped to GL_DRCR_FLAG): 
+I (mapped to GL_PARENT_ID): 
+J (mapped to POSTABLE_YN): 
+K (mapped to CURRENCY_CODE): 
+L (mapped to OFFICE_ID): 
+M (mapped to OFFICE_NAME): 
+N (mapped to BUDGET_HEAD_ID): 
+O (mapped to BUDGET_HEAD_NAME): 
+P (mapped to REGULAR_OPENING_CCY): 
+Q (mapped to REGULAR_OPENING_LCY): 
+R (mapped to REGULAR_DR_AMOUNT_CCY): 
+S (mapped to REGULAR_DR_AMOUNT_LCY): 
+T (mapped to REGULAR_CR_AMOUNT_CCY): 
+U (mapped to REGULAR_CR_AMOUNT_LCY): 
+V (mapped to REGULAR_CLOSING_CCY): 
+W (mapped to REGULAR_CLOSING_LCY): 
+X (mapped to CURRENT_BALANCE_CCY): 
+Y (mapped to CURRENT_BALANCE_LCY): 
+Z (mapped to SPECIAL_DR_AMOUNT_CCY): 
+AA (mapped to SPECIAL_DR_AMOUNT_LCY): 
+AB (mapped to SPECIAL_CR_AMOUNT_CCY): 
+AC (mapped to SPECIAL_CR_AMOUNT_LCY): 
+AD (mapped to UNAUTH_DR_AMOUNT_CCY): 
+AE (mapped to UNAUTH_DR_AMOUNT_LCY): 
+AF (mapped to UNAUTH_CR_AMOUNT_CCY): 
+AG (mapped to UNAUTH_CR_AMOUNT_LCY): 
+AH (mapped to ACTIVE_YN): 
+AI (mapped to INSERT_BY): 
+AJ (mapped to INSERT_DATE): 
+AK (mapped to UPDATE_BY): 
+AL (mapped to UPDATE_DATE): 
+================================================================================
